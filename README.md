@@ -40,6 +40,7 @@ The application follows **Layered Architecture**:
 ---
 
 ## 📂 Project Structure
+```
 src/main/java/com/example/OMS
 ├── controller
 │ └── OrderController.java
@@ -51,7 +52,7 @@ src/main/java/com/example/OMS
 │ ├── Order.java
 │ └── OrderStatus.java
 └── OrderManagementSystemApplication.java
-
+```
 
 ---
 
